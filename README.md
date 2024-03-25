@@ -14,8 +14,8 @@ The dashboard is built using D3.js library for data visualization and JavaScript
 
 ## Deployment
 
-The dashboard is deployed using GitHub Pages and can be accessed [here]([link_to_dashboard](https://masihqadir007.github.io/belly-button-challenge/)).
-
+The dashboard is deployed using GitHub Pages and can be accessed [[here]([link_to_dashboard](https://masihqadir007.github.io/belly-button-challenge/)).
+](https://masihqadir007.github.io/belly-button-challenge/)
 ## Usage
 
 To use the dashboard, follow these steps:
